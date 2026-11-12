@@ -1,4 +1,4 @@
-# EEG Game Controller 
+# EEG-Based Game Controller 
 
 An Arduino-based eeg game controller that detects changes in electrical signals and converts them into keyboard inputs to control jumping and ducking in a game.
 
